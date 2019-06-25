@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://viacep.com.br/ws/01001000/xml/" uri="src/conf/xml-resources/web-service-references/WsClient/wsdl/viacep.com.br/ws/01001000/xml/index.xml"/>
+    <system systemId="https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl" uri="wsdl/apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente.wsdl"/>
+</catalog>
